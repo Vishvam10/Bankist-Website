@@ -12,7 +12,7 @@
 
 <img src="/UI/4.png" width=800>
 
-**Testimonial Oage :**
+**Testimonial Page :**
 
 <img src="/UI/5.png" width=800>
 
