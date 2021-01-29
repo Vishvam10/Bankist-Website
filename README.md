@@ -1,5 +1,6 @@
 # Bankist-Website
-**Landing Page :
+
+**Landing Page :**
 
 <img src="/UI/1.png" width=800>
 
